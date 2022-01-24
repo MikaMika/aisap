@@ -35,22 +35,22 @@ Toute personne peut demander un suivi individuel (sans/ou avec participation au 
 
 ### Cercle de parole
 
-(6 personnes)
+(6 personnes)  
 « Mots à Maux » ouvre un espace qui accueille la parole sans préjugé, sans jugement et dans le respect de la personne.
 
 ### Atelier
 
-(6 personnes)
+(6 personnes)  
 Auto-hypnose, le moyen le plus naturel de développer des capacités pour accéder à ses propres ressources.
 
 ## Contact
 
-Prendre rendez-vous pour un suivi individuel
-Prendre rendez-vous pour un entretien préalable
-Avoir des informations sur le groupe de parole
+Prendre rendez-vous pour un suivi individuel  
+Prendre rendez-vous pour un entretien préalable  
+Avoir des informations sur le groupe de parole  
 
 Thanh Ferretti, Coordinatrice
 
-Tél : 0478 783 615
-Email : contact@centre-aisap.org
+Tél : 0478 783 615  
+Email : contact@centre-aisap.org  
 www.centre-aisap.org
