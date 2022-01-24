@@ -2,9 +2,9 @@
 
 Axe International de Soutien et Aide Psychologique
 
-- [Qui sommes-nous](#Qui_sommes_nous_21)
-- [Nos pratiques](#Nos_pratiques_29)
-- [Contact](#Contact_47)
+- [Qui sommes-nous](#qui-sommes-nous)
+- [Nos pratiques](#nos-pratiques)
+- [Contact](#contact)
 
 ## Centre de thérapie
 
@@ -19,7 +19,7 @@ Approche globale associant différentes techniques dans le but de restaurer la c
 
 ![BIEN Avec vous-même ? BIEN Avec les autres ? BIEN dans votre vie quotidienne ? Vous voulez vous sentir BIEN ? Vous êtes au bon endroit](./bien.png)
 
-## Qui sommes nous
+## Qui sommes-nous
 
 Créée en 2004, l’asbl A.I.S.A.P. est une initiative née de la réflexion d’un groupe de formations diverses (psychologie, psychanalyse, hypnose, sciences humaines, sociales, arts, sciences de la santé) et de la nécessité de créer un service pour les adultes ayant souffert de maltraitance dans leur enfance : abus sexuels, maltraitance physique, psychologique, négligeance .
 
