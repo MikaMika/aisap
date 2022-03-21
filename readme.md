@@ -52,5 +52,5 @@ Avoir des informations sur le groupe de parole
 Thanh Ferretti, Coordinatrice
 
 Tél : 0478 783 615  
-Email : contact@centre-aisap.org  
+Email : [contact@centre-aisap.org](mailto:contact@centre-aisap.org)  
 www.centre-aisap.org
